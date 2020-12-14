@@ -13,8 +13,7 @@
     "url": "git+https://github.com/alstn2468/ReScript_Tutorial.git"
   },
   "keywords": [
-    "rescript",
-    "reasonml"
+    "rescript"
   ],
   "author": "alstn2468 <alstn2468_@naver.com>",
   "license": "MIT",
