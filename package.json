@@ -1,0 +1,28 @@
+{
+  "name": "rescript_tutorial",
+  "version": "1.0.0",
+  "description": ":octocat: ReScript grammer study with ReScript official document 📄",
+  "main": "index.js",
+  "scripts": {
+    "build": "bsb -make-world",
+    "clean": "bsb -clean-world",
+    "start": "bsb -make-world -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alstn2468/ReScript_Tutorial.git"
+  },
+  "keywords": [
+    "rescript",
+    "reasonml"
+  ],
+  "author": "alstn2468 <alstn2468_@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alstn2468/ReScript_Tutorial/issues"
+  },
+  "homepage": "https://github.com/alstn2468/ReScript_Tutorial#readme",
+  "devDependencies": {
+    "bs-platform": "^8.4.2"
+  }
+}
